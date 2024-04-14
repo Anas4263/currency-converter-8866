@@ -1,0 +1,23 @@
+{
+  "name": "currency-converter-8866",
+  "version": "1.0.0",
+  "description": "currency converter",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "currency-converter-8866": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anas",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  }
+}
